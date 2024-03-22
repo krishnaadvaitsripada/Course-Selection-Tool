@@ -13,7 +13,7 @@ The course selection tool being developed by Team 20 sets itself apart from exis
     8. Cloud Computing
 Through its multifaceted approach, the tool aims to empower users with personalized suggestions, ensuring a more informed and enriching course selection process.
 - How we built it
-1. UI
-2. LLM
-3. Data scrapping 
+    1. UI
+    2. LLM
+    3. Data scrapping 
 
