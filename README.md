@@ -11,6 +11,7 @@ The course selection tool being developed by Team 20 sets itself apart from exis
     6. Data Science
     7. Networks and Telecommunications
     8. Cloud Computing
+
 Through its multifaceted approach, the tool aims to empower users with personalized suggestions, ensuring a more informed and enriching course selection process.
 - How we built it
     1. UI
