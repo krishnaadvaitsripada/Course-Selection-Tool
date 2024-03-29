@@ -1,4 +1,4 @@
-# Course-Selection-Tool
+# CourseWizard - Course Selection Tool
 - Inspiration
 Students entering third or fourth year always find themselves at a crossroads, unsure of which courses to pursue in order to establish a solid foundation or help develop a strech goal within their field of interest. The task of sifting through course descriptions proves to be both time-consuming and confusing. Consequently, there is a strong need for assistance in identifying the essential courses required to pursue paths in frontend development, backend development, or site reliability engineering.
 - What it does
